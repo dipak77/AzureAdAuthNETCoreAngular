@@ -1,0 +1,2 @@
+# AzureAdAuthNETCoreAngular
+AzureAdAuthNETCoreAngular
